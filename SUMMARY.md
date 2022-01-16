@@ -13,7 +13,7 @@
 
 ## Tokenomics
 
-* [VIRAO](tokenomics/virao.md)
+* [VIRAGO](tokenomics/virago.md)
 
 ## Guides
 
