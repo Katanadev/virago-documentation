@@ -1,5 +1,5 @@
 ---
-description: Virago's Exchange
+description: Virago's Exchange (SWAP)
 ---
 
 # Exchange
