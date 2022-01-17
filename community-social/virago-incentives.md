@@ -1,2 +1,0 @@
-# Virago incentives
-

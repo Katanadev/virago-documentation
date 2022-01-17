@@ -8,9 +8,9 @@ description: Virago's Pools
 
 When you add your token to a liquidity pool \(LP\), you will receive FLIP tokens \(Virago version of liquidity provider tokens\).
 
-As an example, if you deposited $VIR and $BNB into a liquidity pool, you would receive SALT-BNB FLIP tokens.
+As an example, if you deposited $VIR and $BNB into a liquidity pool, you would receive VIR-BNB FLIP tokens.
 
-The number of FLIP tokens you receive represents your portion of the SALT-BNB liquidity pool. You can also redeem your funds at any time by removing your liquidity.
+The number of FLIP tokens you receive represents your portion of the VIR-BNB liquidity pool. You can also redeem your funds at any time by removing your liquidity.
 
 ---
 

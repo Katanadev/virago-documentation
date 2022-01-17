@@ -2,13 +2,13 @@
 description: Virago's Yield Farms
 ---
 
-# Farms
+# Virago Farms
 
 **Initial Liquidity Pools \(LPs\) for farming VIR tokens:**
 
 ![VIR Farms](../.gitbook/assets/farms.png)
 
-**Reward multipliers:**
+**Reward multipliers:** (SAMPLE)
 
 - VIR (10x Rewards)
 - VIR-BUSD (40x Rewards)
@@ -23,6 +23,6 @@ description: Virago's Yield Farms
 - CAKE (1x Rewards)
 - DAI (1x Rewards)
 
-[Virago] collects a 3% deposit fee to periodically purchase SALT on the market and burn them.
+Virago collects a 3% deposit fee to periodically purchase VIR on the market and burn them.
 
 This will reduce the supply and pump your bags!
