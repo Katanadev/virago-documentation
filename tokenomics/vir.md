@@ -2,7 +2,7 @@
 description: A perpetual deflation token
 ---
 
-# SALT
+# VIR TOKEN
 
 ![VIR Logo](../.gitbook/assets/vir.svg)
 
@@ -16,9 +16,9 @@ description: A perpetual deflation token
 
 **Emission rate:**
 
-0.7 VIR/block
+0.7 VIR/Block
 
-20,160 VIR/day
+20,160 VIR/Day
 
 9.09% will be sent to the developer’s address for further partnership & developer funds.
 

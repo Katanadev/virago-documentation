@@ -4,7 +4,7 @@ description: Virago's Contracts
 
 # Contracts
 
-Our contracts are publicly accessible in the following repo [github.com/saltswap/salt-contracts](https://github.com/saltswap/salt-contracts)
+Our contracts are publicly accessible in the following repo [github.com/virago/virago-contracts](https://github.com/virago/virago-contracts)
 
 - **VIR:** [0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4](https://bscscan.com/address/0x2849b1aE7E04A3D9Bc288673A92477CF63F28aF4)
 
