@@ -6,7 +6,7 @@ description: Virago's Exchange (SWAP)
 
 [**Token swaps**](https://exchange.virago.finance/#/swap) on Virago are a simple way to trade one BEP-20 token for another via automated liquidity pools. In the backend of the exchange we are using [PancakeSwap](https://pancakeswap.finance/).
 
-![Virago Exchange UI](../.gitbook/assets/swap.png)
+![Virago Exchange UI](../.gitbook/assets/liquidity.png)
 
 The liquidity provided to the exchange comes from Liquidity Providers \("LPs"\) who stake their tokens in "Pools". In exchange, they get FLIP \(Virago Liquidity Provider\) tokens, which can also be staked to earn VIR tokens in the "farm".
 
