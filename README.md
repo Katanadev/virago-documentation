@@ -1,7 +1,5 @@
 ---
-description: Hello Michalel, I don't know what happend to my Fiver account, I woke up this morning receiving a notification saying that my account was deleted without any explication or a reason... I'm trying to contact Fiverr but I'm not sure if they will help me or not. In the meantinme, could you please send me an email here - bakedcaketoken@gmail.com
-
-Im still working on Virago and I don't want to let Fiverr kill this project. 
+description: Hello Michalel, I don't know what happend to my Fiver account, I woke up this morning receiving a notification saying that my account was deleted without any explication or a reason... I'm trying to contact Fiverr but I'm not sure if they will help me or not. In the meantinme, could you please send me an email here - bakedcaketoken@gmail.com Im still working on Virago and I don't want to let Fiverr kill this project. 
 ---
 
 # What is Virago?
